@@ -164,15 +164,10 @@ Este proyecto es parte del material académico del curso JavaScript Avanzado. Lo
 
 ## 📞 Contacto
 
-**Ms. Johan López Heredia**  
-Docente - JavaScript Avanzado  
-Universidad Tecnológica del Perú
-
 ---
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 ---
 
